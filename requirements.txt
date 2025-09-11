@@ -1,0 +1,21 @@
+# Beginner AI Chatbot - Requirements
+
+# This is the requirements file for my project.
+# I’ve kept it simple so anyone can set it up without confusion.
+
+# Python version:
+# You need at least Python 3.8
+# I tested this project using Python 3.13.6 (recommended).
+python_version >= 3.8
+
+# Make sure pip (Python package manager) is installed and updated.
+# You can check by running:  pip --version
+# To update pip:  python -m pip install --upgrade pip
+
+# Libraries needed for this chatbot:
+python-dotenv        # to load API key safely from a .env file
+google-generativeai  # to connect with Google Gemini AI
+
+# IDEs (Not installed via pip, just tools I used):
+# - VS Code → for writing code and pushing to GitHub
+# - PyCharm → for testing and running code
