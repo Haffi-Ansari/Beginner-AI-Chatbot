@@ -6,7 +6,6 @@
 # Python version:
 # You need at least Python 3.8
 # I tested this project using Python 3.13.6 (recommended).
-python_version >= 3.0+
 
 # Make sure pip (Python package manager) is installed and updated.
 # You can check by running:  pip --version
